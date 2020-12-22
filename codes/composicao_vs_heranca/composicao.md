@@ -73,4 +73,4 @@ Para utilização da composição é preciso entender que usamos esses tópicos 
 
 1. Composição - Reutilização de código.
 1. Herança - Polimorfismo e reutilização de código.
-1. Interfaces -  Abstração de códigos.
+1. Interfaces -  Polimorfismo.
